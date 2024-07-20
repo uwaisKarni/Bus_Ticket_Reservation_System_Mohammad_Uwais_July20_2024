@@ -39,5 +39,7 @@
   
   Note:: As I'm working on aws cognito auth , curretly on rember spring security configuration,
         I remeber we  need to mark enpoint in security configuration  related to role and isAuthenticated() , 
-		 so as of now I just added only annotation as I'm running out of time as well 
+		 so as of now I just added only annotation as I'm running out of time as well .
+   ** I missed Junit as I'm lack of time.I know about Unit testing.
+    
 
